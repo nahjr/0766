@@ -1,6 +1,6 @@
 first name Nahom 
 last name melaku
 id 0766/10
-year 
+year 2010
 section B
 semester |
