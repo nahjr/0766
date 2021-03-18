@@ -1,6 +1,6 @@
 first name Nahom 
-last name melaku
-id Dbur/0766/10
+last name Melaku
+id DBUR/0766/10
 year 2010
 section B
 semester |
